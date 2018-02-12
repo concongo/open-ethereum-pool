@@ -12,7 +12,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ethereumproject/go-ethereum/common"
+	"github.com/ethereum/go-ethereum/common"
 
 	"github.com/concongo/open-ethereum-pool/util"
 )

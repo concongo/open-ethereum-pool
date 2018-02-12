@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ethereumproject/go-ethereum/common"
+    "github.com/ethereum/go-ethereum/common/math"
 	"github.com/concongo/open-ethereum-pool/rpc"
 	"github.com/concongo/open-ethereum-pool/storage"
 	"github.com/concongo/open-ethereum-pool/util"
