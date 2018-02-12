@@ -1,8 +1,6 @@
-## Open Source Ethereum Mining Pool
+## Open Source Ethereum Classic Mining Pool
 
 ![Miner's stats page](https://user-images.githubusercontent.com/7374093/31591180-43c72364-b236-11e7-8d47-726cd66b876a.png)
-
-[![Join the chat at https://gitter.im/sammy007/open-ethereum-pool](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sammy007/open-ethereum-pool?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/sammy007/open-ethereum-pool.svg?branch=develop)](https://travis-ci.org/sammy007/open-ethereum-pool) [![Go Report Card](https://goreportcard.com/badge/github.com/sammy007/open-ethereum-pool)](https://goreportcard.com/report/github.com/sammy007/open-ethereum-pool)
 
 ### Features
 
@@ -37,7 +35,7 @@ First install  [go-ethereum](https://github.com/ethereum/go-ethereum/wiki/Instal
 Clone & compile:
 
     git config --global http.https://gopkg.in.followRedirects true
-    git clone https://github.com/sammy007/open-ethereum-pool.git
+    git clone https://github.com/concongo/open-ethereum-pool.git
     cd open-ethereum-pool
     make
 
@@ -310,6 +308,10 @@ This pool is tested to work with [Ethcore's Parity](https://github.com/ethcore/p
 ### Credits
 
 Made by sammy007. Licensed under GPLv3.
+ETH/ETC: 0xb85150eb365e7df0941f0cf08235f987ba91506a
+
++Ported by Concongo, Licensed under GPLv3.
+ETH: 0xd142b7a794476aa6467283a35097084cdf7d0334
 
 #### Contributors
 
