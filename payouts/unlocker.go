@@ -31,7 +31,7 @@ const minDepth = 16
 const byzantiumHardForkHeight = 4370000
 
 var homesteadReward = math.MustParseBig256("4000000000000000000")
-var byzantiumReward = math.MustParseBig256("3000000000000000000")
+var byzantiumReward = math.MustParseBig256("4000000000000000000")
 
 // Donate 10% from pool fees to developers
 const donationFee = 10.0
